@@ -1,0 +1,5 @@
+* messages should be listed in conf file
+* logging
+* pictures should be saved with temporary name (files should not be overrided)
+* sending messages to email
+* deleting sent files

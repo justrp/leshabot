@@ -1,0 +1,6 @@
+[BOT]
+Token = <%your telegram token here%>
+DownloadFolder = ./downloads/
+
+[RECIEVER]
+email = <%your reciever email here%>

@@ -87,3 +87,14 @@ ENV/
 
 # Rope project settings
 .ropeproject
+
+# Vim swp files
+*.swp
+
+# Virtualenv files
+bin/
+include/
+pip-selfcheck.json
+
+# Configuration file
+conf.ini
